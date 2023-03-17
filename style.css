@@ -7,7 +7,7 @@ body{
     align-items: center;
     justify-content: space-between;
     flex-wrap: nowrap;
-    width: 100%;
+    width: auto;
 }
 .logo{
     width: 50px;
