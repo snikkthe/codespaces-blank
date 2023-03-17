@@ -9,3 +9,6 @@ body{
     flex-wrap: wrap;
     width: 100%;
 }
+.logo{
+    max-width: 100px;
+}
