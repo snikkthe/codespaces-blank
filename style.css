@@ -6,6 +6,10 @@ section{
     position: relative;
 }
 
+.background{
+    position: absolute;
+}
+
 .row{
     display: flex;
     align-items: center;
