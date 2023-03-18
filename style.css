@@ -96,6 +96,10 @@ a{
     object-fit: contain;
 }
 
+.banner__actions{
+    margin-top: 1rem;
+}
+
 .btn{
     background-color: black;
     color: white;
