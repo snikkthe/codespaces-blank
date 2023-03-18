@@ -98,6 +98,7 @@ a{
 
 .banner__img{
     object-fit: contain;
+    margin-left: 1rem;
 }
 
 .banner__actions{
