@@ -87,3 +87,7 @@ a{
     color: #fff;
     text-align: center;
 }
+
+.banner{
+    object-fit: cover;
+}
