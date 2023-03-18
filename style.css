@@ -71,3 +71,7 @@ img{
 .logo{
     margin-left: 100px;
 }
+
+.nav__link{
+    color: #fff;
+}
