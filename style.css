@@ -60,6 +60,10 @@ img{
     width: 10%;
 }
 
+.--black{
+    background-color: black;
+}
+
 .header{
     height: 10vh;
 }
