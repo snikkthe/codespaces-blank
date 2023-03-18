@@ -51,6 +51,10 @@ a{
     align-self: baseline;
 }
 
+.--paddingtb{
+    padding: 2rem 0;
+}
+
 .--100h{
     height:100%;
 }
