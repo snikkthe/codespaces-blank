@@ -75,5 +75,5 @@ img{
 
 .nav__link{
     color: #fff;
-    text-align: center !important;
+    justify-content: center !important;
 }
