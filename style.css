@@ -51,6 +51,10 @@ a{
     align-self: baseline;
 }
 
+.--100h{
+    height: 100%;
+}
+
 .--100{
     min-width: 100%;
 }
