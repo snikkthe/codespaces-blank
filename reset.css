@@ -38,8 +38,8 @@ body {
 }
 
 a{
-    display: block;
-    text-decoration: none;
+    all:unset;
+
 }
 
 /* A elements that don't have a class get default styles */
