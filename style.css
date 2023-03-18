@@ -95,3 +95,7 @@ a{
 .banner{
     object-fit: contain;
 }
+
+.btn{
+    color: white;
+}
