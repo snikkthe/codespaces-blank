@@ -7,6 +7,12 @@ section{
     position: relative;
 }
 
+img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
 .container{
     max-width: 90vw;
     margin: 0 auto;
@@ -36,9 +42,8 @@ section{
 .--40{
     width: 40%;
 }
+
+
 .logo{
-    width: 50px;
-    height: auto;
-    object-fit: cover;
     margin-left: 100px;
 }
