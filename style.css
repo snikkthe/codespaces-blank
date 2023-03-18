@@ -47,7 +47,9 @@ img{
     width: 10%;
 }
 
-
+.header{
+    height: 10vh;
+}
 .logo{
     margin-left: 100px;
 }
