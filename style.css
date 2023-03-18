@@ -35,6 +35,10 @@ img{
     justify-content: space-between;
     flex-wrap: nowrap;
 }
+
+.--bottom{
+    align-self: flex-end;
+}
 .--100{
     width: 100%;
 }
