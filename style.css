@@ -39,6 +39,11 @@ img{
 .--bottom{
     align-self: flex-end;
 }
+
+.--top{
+    align-self: baseline;
+}
+
 .--100{
     width: 100%;
 }
