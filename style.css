@@ -67,6 +67,10 @@ a{
     width: 40%;
 }
 
+.--35{
+    width: 35%;
+}
+
 .--60{
     width: 60%;
 }
@@ -98,7 +102,6 @@ a{
 
 .banner__img{
     object-fit: contain;
-    margin-left: 1rem;
 }
 
 .banner__actions{
