@@ -89,5 +89,5 @@ a{
 }
 
 .banner{
-    object-fit:fill;
+    object-fit: contain;
 }
