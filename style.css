@@ -61,7 +61,7 @@ img{
 }
 
 .--black{
-    width: calc(100% + 5vw);
+    width: calc(100% + 5vw) !important;
     background-color: black;
 }
 
